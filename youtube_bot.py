@@ -23,3 +23,4 @@ for item in position:    # for each video positon
 	pyautogui.moveTo(81, 74, duration=3)      # back button
 	pyautogui.click()
 	time.sleep(3)
+	
